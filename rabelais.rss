@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+
+<channel>
+    <title>Site Rabelais</title>
+    <link>http://localhost/rss/site%20rabelais/</link>
+    <description>Site Rabelais</description>
+    <item>
+        <title>La formation de la Terre</title>
+        <link>http://localhost/rss/site%20rabelais/article_1.html</link>
+        <pubDate>Fri, 04 Oct 2024 17:00:00 GMT+2</pubDate>
+        <image>
+            <url>http://localhost/rss/site%20rabelais/espace-univers.jpg</url>
+            <title>Espace</title>
+        </image>
+        <description>Nouvelle actualité du lycée !</description>
+    </item>
+</channel>
+
+</rss>
