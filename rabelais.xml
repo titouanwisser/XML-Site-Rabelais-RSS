@@ -9,6 +9,8 @@
         <url>http://localhost/rss/site_rabelais/construction.jpeg</url>
         <title>blablabla</title>
         <link>http://localhost/rss/site_rabelais/index.html</link>
+        <width>32</width>
+        <height>32</height>
     </image>
     <item>
         <title>Construction d'une nouvelle classe</title>
