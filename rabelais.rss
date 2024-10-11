@@ -3,18 +3,28 @@
 
 <channel>
     <title>Site Rabelais</title>
-    <link>http://localhost/rss/site%20rabelais/</link>
-    <description>Site Rabelais</description>
+    <link>http://localhost/rss/site_rabelais/index.html</link>
+    <description>Flux RSS du site du lycée Rabelais</description>
+    <image>
+        <url>http://localhost/rss/site_rabelais/construction.jpeg</url>
+        <title>blablabla</title>
+        <link>http://localhost/rss/site_rabelais/index.html</link>
+    </image>
     <item>
-        <title>La formation de la Terre</title>
-        <link>http://localhost/rss/site%20rabelais/article_1.html</link>
-        <pubDate>Fri, 04 Oct 2024 17:00:00 GMT+2</pubDate>
-        <image>
-            <url>http://localhost/rss/site%20rabelais/espace-univers.jpg</url>
-            <title>Espace</title>
-        </image>
+        <title>Construction d'une nouvelle classe</title>
+        <link>http://localhost/rss/site_rabelais/article_construction_classe.html</link>
+        <pubDate>Fri, 04 Oct 2024 17:03:00 GMT+2</pubDate>
+        <author>titouanwisser@gmail.com (Titouan WISSER)</author>
+        <description>Nouvelle actualité du lycée !</description>
+    </item>
+    <item>
+        <title>Rénovation de la caféteria</title>
+        <link>http://localhost/rss/site_rabelais/article_renovation_cafeteria.html</link>
+        <pubDate>Fri, 11 Oct 2024 14:59:00 GMT+2</pubDate>
+        <author>titouanwisser@gmail.com (Titouan WISSER)</author>
         <description>Nouvelle actualité du lycée !</description>
     </item>
 </channel>
 
 </rss>
+
